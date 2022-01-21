@@ -3,6 +3,8 @@ import { configureStore } from '@reduxjs/toolkit'
 import counterSlice from './counter';
 import authSlice from './auth';
 
+// const initialState = {counter: 0, showCounter: false}
+
 // const counterReducer = (state = initialState, action) => {
 //     if(action.type === 'increment'){
 //         return {
