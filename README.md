@@ -1,4 +1,4 @@
-# React_Redux_Redux_Toolkit Starter guide
+# React_Redux_Toolkit Starter guide
 
 A beginners guide on how to connect redux with react
 
